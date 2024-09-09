@@ -34,4 +34,11 @@ Copy code
 npm start
 The app will be available at http://localhost3000
 
+Usage
+Browse Products: View the homepage with all the products listed.
+Product Search: Use the search bar to find products by name or category.
+Add to Cart: Select a product and add it to your shopping cart.
+Checkout: Navigate to the cart and proceed to checkout.
+Authentication: Log in or sign up to make purchases and save cart data.
+
 
