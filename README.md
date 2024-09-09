@@ -9,3 +9,29 @@ User Authentication: Sign up and log in to save cart data and make purchases.
 Product Details: View detailed information about each product.
 Checkout: Place orders and proceed to payment.
 Responsive Design: Fully responsive UI for desktop, tablet, and mobile.
+
+
+Installation
+To run this project locally, follow these steps:
+
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/ecommerce-react.git
+cd ecommerce-react
+Install the dependencies:
+
+bash
+Copy code
+npm install
+Set up a mock backend or use a headless CMS (like Strapi, Contentful, etc.) for product data.
+
+Start the development server:
+
+bash
+Copy code
+npm start
+The app will be available at http://localhost3000
+
+
